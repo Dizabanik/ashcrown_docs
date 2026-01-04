@@ -78,4 +78,4 @@ This enchantment cannot be combined with the other enchantments on this list:
 
 The list of places where this enchantment can be found in the structures of Yggdrasil.
 
-<table><thead><tr><th align="center">Structure</th><th data-type="checkbox">Vault</th><th data-type="checkbox">Ominous Vault</th><th data-type="checkbox">Spawner</th><th data-type="checkbox">Ominous Spawner</th><th data-type="checkbox">Chest</th></tr></thead><tbody><tr><td align="center">Alfheim</td><td>false</td><td>false</td><td>false</td><td>false</td><td>true</td></tr></tbody></table>
+<table><thead><tr><th align="center">Structure</th><th data-type="checkbox">Vault</th><th data-type="checkbox">Ominous Vault</th><th data-type="checkbox">Spawner</th><th data-type="checkbox">Ominous Spawner</th><th data-type="checkbox">Chest</th></tr></thead><tbody><tr><td align="center">Asgard</td><td>false</td><td>false</td><td>false</td><td>false</td><td>true</td></tr></tbody></table>

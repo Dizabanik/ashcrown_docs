@@ -91,9 +91,9 @@ _These enchantments apply to all armor pieces (helmet, chestplate, leggings, boo
 
 _These enchantments apply specifically to helmets._
 
-* **Voidless** : (Helmet) The player is immune to the void, the player will got a brief levitation effect when he falls into the void.
+* **Voidless** : (Helmet) The player is immune to the void, the player will get a brief levitation effect when he falls into the void.
 * **Bright Vision** : (Helmet) The player has night vision, the player can see in the dark.
-* **Auto Feed** : (Helmet) Every minute, the player automatically receives a few saturation points. It's not enough to be dependent on enchantment.
+* **Auto Feed** : (Helmet) Every minute, the player automatically receives a few saturation points. It's not enough to be dependent on the enchantment.
 
 ***
 
@@ -145,8 +145,7 @@ _These enchantments apply to horse armor and other mount equipment._
 
 _These enchantments have special effects or can be applied to various items._
 
-**Xp Boost** : (All) Increase the player's experience gain when killing entities.
-
+* **Xp Boost** : (All) Increase the player's experience gain when killing entities.
 * **Curse of Breaking** : (All) The item loses durability with each use with an increasing chance based on level.
 * **Curse of Enchant** : (All) The item can no longer be enchanted.
 * **Midas Touch** : (All) Transforms blocks into gold ore or gold blocks when hit, consuming significant durability.
