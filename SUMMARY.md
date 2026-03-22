@@ -104,3 +104,30 @@
 * [Runic Dimension](yggdrasil/runic-dimension.md)
 * [The items](yggdrasil/the-items.md)
 * [Reva (Pet)](yggdrasil/reva-pet.md)
+
+## Deeper Dark
+
+* [Getting Started](deeper-dark/getting-started.md)
+* [Biomes](deeper-dark/biomes/README.md)
+  * [Deeper Dark](deeper-dark/biomes/deeper-dark.md)
+  * [Deeper Dark Cavern](deeper-dark/biomes/deeper-dark-cavern.md)
+  * [Volcanic Caverns](deeper-dark/biomes/volcanic-caverns.md)
+  * [Amethyst Mines](deeper-dark/biomes/amethyst-mines.md)
+  * [Deep Oasis](deeper-dark/biomes/deep-oasis.md)
+  * [Ancient Dark](deeper-dark/biomes/ancient-dark.md)
+  * [Obsidian Barrier](deeper-dark/biomes/obsidian-barrier.md)
+* [Structures](deeper-dark/structures/README.md)
+  * [Ancient Village](deeper-dark/structures/ancient-village.md)
+  * [Ancient Fortress](deeper-dark/structures/ancient-fortress.md)
+  * [Sculk Traps](deeper-dark/structures/sculk-traps.md)
+  * [Amethyst Mineshaft](deeper-dark/structures/amethyst-mineshaft.md)
+  * [Laboratory](deeper-dark/structures/laboratory.md)
+* [Items & Enchantments](deeper-dark/items-and-enchantments.md)
+* [Sculk Conversion](deeper-dark/sculk-conversion.md)
+* [Opening the Portal](deeper-dark/opening-the-portal.md)
+
+## Tool Trims
+
+* [Getting Started](tool-trims/getting-started.md)
+* [Tutorial](tool-trims/tutorial.md)
+* [Advancements](tool-trims/advancements.md)
