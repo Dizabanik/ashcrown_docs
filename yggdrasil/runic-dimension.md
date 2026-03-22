@@ -4,8 +4,6 @@ icon: police-box
 
 # Runic Dimension
 
-<figure><img src=".gitbook/assets/yggrasil-4-runic_island.jpg" alt=""><figcaption></figcaption></figure>
-
 ## <mark style="color:orange;">Accessing the Runic Dimension</mark>
 
 The primary path to the Runic Dimension involves the Runic Island, which often requires completing steps tied to the Asflors village questline.
@@ -45,7 +43,7 @@ Use the Rune of Breaking on the sealed main entrance door.
 {% endstep %}
 
 {% step %}
-### Figtht!
+#### Figtht!
 
 Inside the Runic Island, you'll likely encounter a trial spawner room. Defeating the monsters summoned here rewards you with a vault key _**(Key usable for another quest)**_
 
@@ -61,9 +59,7 @@ After clearing the main combat area within the Runic Island, search trapdoors. T
 
 ### Alternative Entry (Secret Passages):
 
-It is possible to _**bypass step three, four and five**_ by discovering one of the five secret passages leading into the Runic Island. These are hidden and finding them requires exploration.
-
-
+It is possible to _**bypass step three, four and five**_ by discovering one of the five secret passages leading into the Runic Island. These are hidden and finding them requires exploration.
 
 ## <mark style="color:orange;">Structures within the Runic Dimension</mark>
 
@@ -84,8 +80,6 @@ This unique dimension hosts several distinct structures:
 {% content-ref url="yggdrasil/structure/dokkalfar-ruins.md" %}
 [dokkalfar-ruins.md](yggdrasil/structure/dokkalfar-ruins.md)
 {% endcontent-ref %}
-
-
 
 ## <mark style="color:orange;">Exiting the Runic Dimension</mark>
 

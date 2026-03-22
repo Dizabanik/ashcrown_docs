@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: message-question
 ---
 
@@ -17,7 +18,7 @@ Experimental features on Realms servers are intentionally disabled by Mojang, in
 * Painting Variants
 * Custom Discs
 
-As a result, <mark style="color:red;">**NeoEnchant does not work on Realms**</mark><mark style="color:red;">,</mark> but it is fully supported in Singleplayer, Multiplayer, and on Fabric, Forge, NeoForge, Quilt, Paper, Bukkit... but not Realms.&#x20;
+As a result, <mark style="color:red;">**NeoEnchant does not work on Realms**</mark><mark style="color:red;">,</mark> but it is fully supported in Singleplayer, Multiplayer, and on Fabric, Forge, NeoForge, Quilt, Paper, Bukkit... but not Realms.
 
 Yggdrasil, Should not also work in logic, to be confirmed. In the case of **BeyondEnchant**, this is an exception, as it modifies vanilla enchantments, which are not considered custom.
 

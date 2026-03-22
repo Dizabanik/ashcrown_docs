@@ -7,8 +7,6 @@
 * Knockback multiplier: 1.25x at level I, 1.65x at level II, 2.25x at level III
 * Creates wind particles and sound effects
 
-<figure><img src="../../.gitbook/assets/stats_3_2_4.png" alt=""><figcaption></figcaption></figure>
-
 ***
 
 ### <mark style="color:orange;">Availability</mark>
@@ -35,8 +33,6 @@ _**The Price is Doubled:**_ These enchantments get charged twice as much in vill
 
 </details>
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Darker boxes represent true, lighter boxes false</p></figcaption></figure>
-
 ***
 
 ### <mark style="color:orange;">Compatible Items</mark>
@@ -45,19 +41,15 @@ _**The Price is Doubled:**_ These enchantments get charged twice as much in vill
 
 <summary>Explanation Primary / Supported (Technical)</summary>
 
-**Primary Items (Enchanting Table):**  Items for which this enchantment appears in an [enchanting table](https://minecraft.wiki/w/Enchanting_table).
+**Primary Items (Enchanting Table):** Items for which this enchantment appears in an [enchanting table](https://minecraft.wiki/w/Enchanting_table).
 
-**Supported Items (Anvil):**  Items on which this enchantment can be applied using an anvil or using the [`/enchant`](https://minecraft.wiki/w/Commands/enchant) command.
-
-
+**Supported Items (Anvil):** Items on which this enchantment can be applied using an anvil or using the [`/enchant`](https://minecraft.wiki/w/Commands/enchant) command.
 
 {% hint style="info" %}
 If Primary Items is not specified, then it is set to Supported Items.
 {% endhint %}
 
 </details>
-
-<figure><img src="../../.gitbook/assets/mace.png" alt=""><figcaption><p>Mace - Enchanting Table and Anvil</p></figcaption></figure>
 
 ***
 
@@ -66,8 +58,6 @@ If Primary Items is not specified, then it is set to Supported Items.
 The list of places where this enchantment can be found in the vanilla structure, with this addons:
 
 * Can be found in **"Trial Chamber Ominous Vault"**
-
-
 
 <sup><sub><mark style="color:$info;">This add-on is installed separately; the enchantments are not found by default in the vanilla structure.<mark style="color:$info;"><sub></sup>
 
@@ -78,4 +68,3 @@ The list of places where this enchantment can be found in the vanilla structure,
 The list of places where this enchantment can be found in the structures of Yggdrasil.
 
 <table><thead><tr><th align="center">Structure</th><th data-type="checkbox">Vault</th><th data-type="checkbox">Ominous Vault</th><th data-type="checkbox">Spawner</th><th data-type="checkbox">Ominous Spawner</th><th data-type="checkbox">Chest</th></tr></thead><tbody><tr><td align="center">Alfheim</td><td>true</td><td>false</td><td>true</td><td>false</td><td>false</td></tr><tr><td align="center">Asgard</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td></tr><tr><td align="center">Helheim</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td></tr></tbody></table>
-

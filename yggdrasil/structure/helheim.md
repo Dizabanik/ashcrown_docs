@@ -19,8 +19,6 @@ Helheim emerges randomly deep beneath the earth. The easiest way to find it is b
 This structure is generated in underground, and adapts to biomes like Lush Cave.
 {% endhint %}
 
-
-
 Challenges and Rewards:
 
 Prepare for an extreme challenge; Helheim is one of the most difficult locations in this world. Success yields unique rewards, including:
@@ -40,19 +38,19 @@ To acquire the unique pet companion from Helheim, you must follow its specific q
 
 {% stepper %}
 {% step %}
-### Quest Books
+#### Quest Books
 
 Thoroughly exploring Helheim and locating all the lore books detailing its tragic history.
 {% endstep %}
 
 {% step %}
-### Locate the room
+#### Locate the room
 
 Ascending to the structure's final floor, it's the highest room in a tower.
 {% endstep %}
 
 {% step %}
-### Place books
+#### Place books
 
 Placing each of the read lore books onto the designated lecterns found ther.
 

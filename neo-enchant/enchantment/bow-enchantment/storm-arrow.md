@@ -8,8 +8,6 @@
 * Flash particles and sound effect on arrow launch
 * Deals 10 durability damage when shooting
 
-<figure><img src="../../.gitbook/assets/stats_1_2_6.png" alt=""><figcaption></figcaption></figure>
-
 ***
 
 ### <mark style="color:orange;">Availability</mark>
@@ -36,8 +34,6 @@ _**The Price is Doubled:**_ These enchantments get charged twice as much in vill
 
 </details>
 
-<figure><img src="../../.gitbook/assets/table.png" alt=""><figcaption><p>Darker boxes represent true, lighter boxes false</p></figcaption></figure>
-
 ***
 
 ### <mark style="color:orange;">Compatible Items</mark>
@@ -46,21 +42,15 @@ _**The Price is Doubled:**_ These enchantments get charged twice as much in vill
 
 <summary>Explanation Primary / Supported (Technical)</summary>
 
-**Primary Items (Enchanting Table):**  Items for which this enchantment appears in an [enchanting table](https://minecraft.wiki/w/Enchanting_table).
+**Primary Items (Enchanting Table):** Items for which this enchantment appears in an [enchanting table](https://minecraft.wiki/w/Enchanting_table).
 
-**Supported Items (Anvil):**  Items on which this enchantment can be applied using an anvil or using the [`/enchant`](https://minecraft.wiki/w/Commands/enchant) command.
-
-
+**Supported Items (Anvil):** Items on which this enchantment can be applied using an anvil or using the [`/enchant`](https://minecraft.wiki/w/Commands/enchant) command.
 
 {% hint style="info" %}
 If Primary Items is not specified, then it is set to Supported Items.
 {% endhint %}
 
 </details>
-
-<figure><img src="../../.gitbook/assets/bow.png" alt="" width="375"><figcaption><p>Bow - Enchanting Table and Anvil</p></figcaption></figure>
-
-
 
 ***
 
@@ -94,9 +84,9 @@ The list of places where this enchantment can be found in the vanilla structure,
 
 *
 
-    <table><thead><tr><th align="center">Structure</th><th data-type="checkbox">Vault</th><th data-type="checkbox">Ominous Vault</th><th data-type="checkbox">Spawner</th><th data-type="checkbox">Ominous Spawner</th></tr></thead><tbody><tr><td align="center">Trial Chamber</td><td>true</td><td>false</td><td>false</td><td>false</td></tr></tbody></table>
-
-
+```
+<table><thead><tr><th align="center">Structure</th><th data-type="checkbox">Vault</th><th data-type="checkbox">Ominous Vault</th><th data-type="checkbox">Spawner</th><th data-type="checkbox">Ominous Spawner</th></tr></thead><tbody><tr><td align="center">Trial Chamber</td><td>true</td><td>false</td><td>false</td><td>false</td></tr></tbody></table>
+```
 
 <sup><sub><mark style="color:$info;">This add-on is installed separately; the enchantments are not found by default in the vanilla structure.<mark style="color:$info;"><sub></sup>
 

@@ -8,21 +8,24 @@ coverY: 0
 
 # Welcome
 
-## <mark style="color:orange;">Hello and welcome to the official wiki!</mark>
+**Пепел не лжёт.**
 
-This wiki serves as the central knowledge base for the Minecraft content I've created. Here you'll find comprehensive information covering:
+Здесь нет героев. Здесь нет злодеев. Здесь есть только ты, мир, который не хочет, чтобы ты выжил – и всё остальное, что ты сам решишь из этого сделать.
 
-* **NeoEnchant**: Details on all the custom enchantments, how they work, and how to obtain them.
-* **Yggdrasil**: Guides to the various structures added by the Yggdrasil pack, including locations, challenges, lore, and rewards.
-* **Better Furnace:** Detailed crafts and information on the speed of each oven
-* **Wispher of Ether:** Detailed information about this mod, its mechanics, runes, and other detailed information.
-* **Web Tools:** Explanations and instructions for using the companion web utilities (Configurator, Updater, Converter) designed to help you manage and customize the packs.
+Ashcrown – это не сервер. Это эксперимент над тем, что происходит, когда людям дают настоящую свободу и достаточно острые инструменты.
 
-My goal is to make this documentation as clear and helpful as possible.
+Новые измерения, которые не ждали твоего прихода. Структуры, построенные теми, кто давно исчез. Механики, которые никто не объяснит – придётся понять самому или умереть, не поняв. Сотни предметов, навыков, путей развития – и ни одного правильного.
 
-If you find any information missing, unclear, or incorrect, please don't hesitate to let me know so I can improve it.
+Ты можешь строить империю. Можешь торговать с незнакомцами. Можешь уйти в подземелья и не возвращаться неделями. Можешь объявить войну. Можешь заключить мир. Можешь сгнить в одиночестве где-то между двумя измерениями.
+
+Здесь не запрещено почти ничего – но это не значит, что всё безнаказанно.
+
+Единственное, что мы не трогаем – новые лица у спавна. Дальше – сам разбирайся, кем ты здесь станешь.
+
+**Пепел остаётся после всего. Корона достаётся тем, кто не сгорел.**
+
+_Добро пожаловать в Ashcrown. Ты уже опаздываешь._
 
 For discussions, questions, or just to chat, feel free to join the community on Discord.
 
-[https://discord.gg/TAmVFvkHep](https://discord.gg/TAmVFvkHep)
-
+[https://discord.gg/uwArKjPzJF](https://discord.gg/TAmVFvkHep)

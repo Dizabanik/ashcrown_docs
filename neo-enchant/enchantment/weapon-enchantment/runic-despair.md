@@ -8,8 +8,6 @@ This enchantment is linked to Yggdrasil content. To use or find it, you need to 
 
 * Increase damage in Runic Dimensions (Yggdrasil Datapack)
 
-<figure><img src="../../.gitbook/assets/stats_5_4_2.png" alt=""><figcaption></figcaption></figure>
-
 ***
 
 ### <mark style="color:orange;">Availability</mark>
@@ -36,8 +34,6 @@ _**The Price is Doubled:**_ These enchantments get charged twice as much in vill
 
 </details>
 
-<figure><img src="../../.gitbook/assets/none.png" alt=""><figcaption><p>Darker boxes represent true, lighter boxes false</p></figcaption></figure>
-
 ***
 
 ### <mark style="color:orange;">Compatible Items</mark>
@@ -46,21 +42,15 @@ _**The Price is Doubled:**_ These enchantments get charged twice as much in vill
 
 <summary>Explanation Primary / Supported (Technical)</summary>
 
-**Primary Items (Enchanting Table):**  Items for which this enchantment appears in an [enchanting table](https://minecraft.wiki/w/Enchanting_table).
+**Primary Items (Enchanting Table):** Items for which this enchantment appears in an [enchanting table](https://minecraft.wiki/w/Enchanting_table).
 
-**Supported Items (Anvil):**  Items on which this enchantment can be applied using an anvil or using the [`/enchant`](https://minecraft.wiki/w/Commands/enchant) command.
-
-
+**Supported Items (Anvil):** Items on which this enchantment can be applied using an anvil or using the [`/enchant`](https://minecraft.wiki/w/Commands/enchant) command.
 
 {% hint style="info" %}
 If Primary Items is not specified, then it is set to Supported Items.
 {% endhint %}
 
 </details>
-
-<figure><img src="../../.gitbook/assets/melee_weapon.png" alt=""><figcaption><p>Sword - Enchanting Table and Anvil</p></figcaption></figure>
-
-
 
 ***
 
@@ -80,8 +70,6 @@ This enchantment cannot be combined with the other enchantments on this list:
 [dimensionnal-hit.md](dimensionnal-hit.md)
 {% endcontent-ref %}
 
-
-
 ***
 
 ### <mark style="color:orange;">Yggdrasil</mark>
@@ -89,4 +77,3 @@ This enchantment cannot be combined with the other enchantments on this list:
 The list of places where this enchantment can be found in the structures of Yggdrasil.
 
 <table><thead><tr><th align="center">Structure</th><th data-type="checkbox">Vault</th><th data-type="checkbox">Ominous Vault</th><th data-type="checkbox">Spawner</th><th data-type="checkbox">Ominous Spawner</th><th data-type="checkbox">Chest</th></tr></thead><tbody><tr><td align="center">Asflors</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td align="center">Asgard</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td align="center">Helheim</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td align="center">Runic Laby</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr></tbody></table>
-

@@ -7,8 +7,6 @@
 
 > The item can no longer be enchanted or disenchanted.
 
-<figure><img src="../../.gitbook/assets/stats_1_4_1.png" alt=""><figcaption></figcaption></figure>
-
 ***
 
 ### <mark style="color:orange;">Availability</mark>
@@ -35,8 +33,6 @@ _**The Price is Doubled:**_ These enchantments get charged twice as much in vill
 
 </details>
 
-<figure><img src="../../.gitbook/assets/loot.png" alt=""><figcaption><p>Darker boxes represent true, lighter boxes false</p></figcaption></figure>
-
 ***
 
 ### <mark style="color:orange;">Compatible Items</mark>
@@ -45,21 +41,15 @@ _**The Price is Doubled:**_ These enchantments get charged twice as much in vill
 
 <summary>Explanation Primary / Supported (Technical)</summary>
 
-**Primary Items (Enchanting Table):**  Items for which this enchantment appears in an [enchanting table](https://minecraft.wiki/w/Enchanting_table).
+**Primary Items (Enchanting Table):** Items for which this enchantment appears in an [enchanting table](https://minecraft.wiki/w/Enchanting_table).
 
-**Supported Items (Anvil):**  Items on which this enchantment can be applied using an anvil or using the [`/enchant`](https://minecraft.wiki/w/Commands/enchant) command.
-
-
+**Supported Items (Anvil):** Items on which this enchantment can be applied using an anvil or using the [`/enchant`](https://minecraft.wiki/w/Commands/enchant) command.
 
 {% hint style="info" %}
 If Primary Items is not specified, then it is set to Supported Items.
 {% endhint %}
 
 </details>
-
-<figure><img src="../../.gitbook/assets/all_items.png" alt=""><figcaption><p>Durability - Enchanting Table and Anvil</p></figcaption></figure>
-
-
 
 ***
 

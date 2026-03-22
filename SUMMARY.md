@@ -104,33 +104,3 @@
 * [Runic Dimension](yggdrasil/runic-dimension.md)
 * [The items](yggdrasil/the-items.md)
 * [Reva (Pet)](yggdrasil/reva-pet.md)
-
-## Better Furnace
-
-* [Getting Started](better-furnace/getting-started.md)
-* [Recipe and Detail](better-furnace/recipe-and-detail.md)
-
-## Whisper of Ether
-
-* [Getting Started](whisper-of-ether/getting-started.md)
-* [Runic Mechanics](whisper-of-ether/runic-mechanics/README.md)
-  * [Runes](whisper-of-ether/runic-mechanics/runes.md)
-  * [Runic Forge](whisper-of-ether/runic-mechanics/runic-forge.md)
-  * [Runic Infuser](whisper-of-ether/runic-mechanics/runic-infuser.md)
-  * [Runic Table](whisper-of-ether/runic-mechanics/runic-table.md)
-* [New Player Statistics](whisper-of-ether/new-player-statistics.md)
-* [Target Dummy](whisper-of-ether/target-dummy.md)
-* [Waypoint](whisper-of-ether/waypoint.md)
-
-## Configurator & Tools
-
-* [Getting Started](configurator-and-tools/getting-started.md)
-* [Disable/Balance enchantment](configurator-and-tools/disable-balance-enchantment.md)
-* [Update pack](configurator-and-tools/update-pack.md)
-* [Convert Datapack to Mods](configurator-and-tools/convert-datapack-to-mods.md)
-* [Technical](configurator-and-tools/technical/README.md)
-  * [How your files are processed](configurator-and-tools/technical/how-your-files-are-processed.md)
-  * [How the configurator applies modifications](configurator-and-tools/technical/how-the-configurator-applies-modifications.md)
-  * [Collected data](configurator-and-tools/technical/collected-data.md)
-  * [How migration is managed](configurator-and-tools/technical/how-migration-is-managed.md)
-  * [Safety measures](configurator-and-tools/technical/safety-measures.md)

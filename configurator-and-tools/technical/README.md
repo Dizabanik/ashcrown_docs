@@ -1,7 +1,0 @@
----
-icon: microchip
----
-
-# Technical
-
-Soon...

@@ -1,3 +1,0 @@
-# How the configurator applies modifications
-
-Soon...
