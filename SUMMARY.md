@@ -157,9 +157,14 @@
 * [Mob Drops](unlimited-adventures/mob-drops.md)
 * [Ambients](unlimited-adventures/ambients.md)
 
-## ✨ Advanced Enchantments
+## Excellent Enchants
 
-* [🎯 Getting Started](advanced-enchantments/getting-started.md)
-* [📘 Weapons](advanced-enchantments/weapons.md)
-* [📗 Armor & Movement](advanced-enchantments/armor-and-movement.md)
-* [🛠️ Tools, Fishing & Farming](advanced-enchantments/tools-fishing-and-farming.md)
+* [Getting Started](excellent-enchants/getting-started.md)
+* [Enchantments](excellent-enchants/enchantments.md)
+
+## Advanced Enchantments
+
+* [Getting Started](advanced-enchantments/getting-started.md)
+* [Weapons](advanced-enchantments/weapons.md)
+* [Armor & Movement](advanced-enchantments/armor-and-movement.md)
+* [Tools, Fishing & Farming](advanced-enchantments/tools-fishing-and-farming.md)

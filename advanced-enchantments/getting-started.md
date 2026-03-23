@@ -1,4 +1,8 @@
-# 🎯 Getting Started
+---
+icon: bullseye-arrow
+---
+
+# Getting Started
 
 ## <mark style="color:orange;">Content</mark>
 

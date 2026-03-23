@@ -1,4 +1,8 @@
-# 🛠️ Tools, Fishing & Farming
+---
+icon: pickaxe
+---
+
+# Tools, Fishing & Farming
 
 ## <mark style="color:orange;">Tools, Fishing & Farming</mark>
 

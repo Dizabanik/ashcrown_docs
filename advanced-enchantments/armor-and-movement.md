@@ -1,4 +1,8 @@
-# 📗 Armor & Movement
+---
+icon: helmet-battle
+---
+
+# Armor & Movement
 
 ## <mark style="color:orange;">Armor & Movement</mark>
 

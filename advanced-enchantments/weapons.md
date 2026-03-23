@@ -1,4 +1,8 @@
-# 📘 Weapons
+---
+icon: sword
+---
+
+# Weapons
 
 ## <mark style="color:orange;">Weapons</mark>
 
