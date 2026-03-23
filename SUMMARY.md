@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Progression](progression.md)
 * [IP and Discord](community-and-support.md)
 * [Question and Answer for Datapacks](faq.md)
 
@@ -168,3 +169,16 @@
 * [Weapons](advanced-enchantments/weapons.md)
 * [Armor & Movement](advanced-enchantments/armor-and-movement.md)
 * [Tools, Fishing & Farming](advanced-enchantments/tools-fishing-and-farming.md)
+
+## Stellarity
+
+* [Getting Started](stellarity/getting-started.md)
+* [Biomes](stellarity/biomes.md)
+* [Structures](stellarity/structures.md)
+* [Bosses & Progression](stellarity/bosses-and-progression.md)
+* [Gear & Systems](stellarity/gear-and-systems.md)
+
+## Call Your Horse
+
+* [Getting Started](call-your-horse/getting-started.md)
+* [Configuration](call-your-horse/configuration.md)
