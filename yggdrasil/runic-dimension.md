@@ -16,7 +16,7 @@ Start in Asflors (Optionnal)
 
 Locate an Asflors village. Initiate the quest. This questline is designed to eventually grant you the key needed to open the main entrance of the Runic Island.
 
-[asflors-village.md](yggdrasil/structure/asflors-village.md "mention")
+[Asflors Village](structure/asflors-village.md)
 {% endstep %}
 
 {% step %}
@@ -33,7 +33,8 @@ Travel to the Runic Island:
 
 Use the map to find the island floating in the sky. You can also find the Runic Island Stele for getting the map.
 
-[runic-island.md](yggdrasil/structure/runic-island.md "mention")[steles.md](yggdrasil/structure/steles.md "mention")
+[Runic Island](structure/runic-island.md)\
+[Steles](structure/steles.md)
 {% endstep %}
 
 {% step %}
@@ -43,7 +44,7 @@ Use the Rune of Breaking on the sealed main entrance door.
 {% endstep %}
 
 {% step %}
-#### Figtht!
+#### Fight!
 
 Inside the Runic Island, you'll likely encounter a trial spawner room. Defeating the monsters summoned here rewards you with a vault key _**(Key usable for another quest)**_
 
@@ -65,20 +66,20 @@ It is possible to _**bypass step three, four and five**_ by discovering one of t
 
 This unique dimension hosts several distinct structures:
 
-{% content-ref url="yggdrasil/structure/runic-labyrinth.md" %}
-[runic-labyrinth.md](yggdrasil/structure/runic-labyrinth.md)
+{% content-ref url="structure/runic-labyrinth.md" %}
+[runic-labyrinth.md](structure/runic-labyrinth.md)
 {% endcontent-ref %}
 
-{% content-ref url="yggdrasil/structure/runic-alfheim.md" %}
-[runic-alfheim.md](yggdrasil/structure/runic-alfheim.md)
+{% content-ref url="structure/runic-alfheim.md" %}
+[runic-alfheim.md](structure/runic-alfheim.md)
 {% endcontent-ref %}
 
-{% content-ref url="yggdrasil/structure/cubeoid.md" %}
-[cubeoid.md](yggdrasil/structure/cubeoid.md)
+{% content-ref url="structure/cubeoid.md" %}
+[cubeoid.md](structure/cubeoid.md)
 {% endcontent-ref %}
 
-{% content-ref url="yggdrasil/structure/dokkalfar-ruins.md" %}
-[dokkalfar-ruins.md](yggdrasil/structure/dokkalfar-ruins.md)
+{% content-ref url="structure/dokkalfar-ruins.md" %}
+[dokkalfar-ruins.md](structure/dokkalfar-ruins.md)
 {% endcontent-ref %}
 
 ## <mark style="color:orange;">Exiting the Runic Dimension</mark>
