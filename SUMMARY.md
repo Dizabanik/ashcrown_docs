@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Community & Support](community-and-support.md)
+* [IP and Discord](community-and-support.md)
 * [Question and Answer for Datapacks](faq.md)
 
 ## Neo Enchant+ <a href="#neo-enchant" id="neo-enchant"></a>
