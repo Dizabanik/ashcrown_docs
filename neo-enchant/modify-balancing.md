@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: screwdriver-wrench
 ---
 
@@ -51,10 +52,8 @@ Once your edits are done, find the download button at the bottom left of the Vox
 he name of the zip or rare file has no technical influence in Minecraft, so you can rename it if you like.
 {% endhint %}
 
-
-
 ### 2. Editing the packs with Editor
 
-Both datapacks and mods contain the same things, but datapacks are particularly easy to modify without programming skills, as they consist of simple configuration files. This allows packs to be customized by modifying these files.&#x20;
+Both datapacks and mods contain the same things, but datapacks are particularly easy to modify without programming skills, as they consist of simple configuration files. This allows packs to be customized by modifying these files.
 
 See the Technical or Enchantment page for information on which files control what.

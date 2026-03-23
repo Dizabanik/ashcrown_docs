@@ -131,3 +131,35 @@
 * [Getting Started](tool-trims/getting-started.md)
 * [Tutorial](tool-trims/tutorial.md)
 * [Advancements](tool-trims/advancements.md)
+
+## Horses Genetic
+
+* [Getting Started](horses-genetic/getting-started.md)
+
+## Dark Souls Death (RIP)
+
+* [Getting Started](dark-souls-death-rip/getting-started.md)
+
+## Villager Transportation
+
+* [Getting Started](villager-transportation/getting-started.md)
+
+## Unlimited Adventures
+
+* [Getting Started](unlimited-adventures/getting-started.md)
+* [Custom Items](unlimited-adventures/custom-items.md)
+* [Artifacts](unlimited-adventures/artifacts.md)
+* [Farming](unlimited-adventures/farming.md)
+* [Cooking](unlimited-adventures/cooking.md)
+* [Dungeons](unlimited-adventures/dungeons/README.md)
+  * [Locked Dungeons](unlimited-adventures/dungeons/locked-dungeons.md)
+  * [The Crawling Depths](unlimited-adventures/dungeons/the-crawling-depths.md)
+* [Mob Drops](unlimited-adventures/mob-drops.md)
+* [Ambients](unlimited-adventures/ambients.md)
+
+## ✨ Advanced Enchantments
+
+* [🎯 Getting Started](advanced-enchantments/getting-started.md)
+* [📘 Weapons](advanced-enchantments/weapons.md)
+* [📗 Armor & Movement](advanced-enchantments/armor-and-movement.md)
+* [🛠️ Tools, Fishing & Farming](advanced-enchantments/tools-fishing-and-farming.md)
