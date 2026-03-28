@@ -183,3 +183,7 @@
 
 * [Getting Started](call-your-horse/getting-started.md)
 * [Configuration](call-your-horse/configuration.md)
+
+## SpawnerMeta
+
+* [Getting Started](spawnermeta/getting-started.md)
