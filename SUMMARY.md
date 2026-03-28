@@ -159,6 +159,10 @@
 * [Mob Drops](unlimited-adventures/mob-drops.md)
 * [Ambients](unlimited-adventures/ambients.md)
 
+## Custom Crops
+
+* [Overview](custom-crops/overview.md)
+
 ## Excellent Enchants
 
 * [Getting Started](excellent-enchants/getting-started.md)
