@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Useful Commands](useful-commands.md)
 * [Progression](progression.md)
 * [IP and Discord](community-and-support.md)
 * [Question and Answer for Datapacks](faq.md)
