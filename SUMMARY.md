@@ -191,3 +191,7 @@
 ## SpawnerMeta
 
 * [Getting Started](spawnermeta/getting-started.md)
+
+## Cargo
+
+* [Грузы](cargo/gruzy.md)
