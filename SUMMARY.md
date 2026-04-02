@@ -192,6 +192,15 @@
 
 * [Getting Started](spawnermeta/getting-started.md)
 
+## PyroFishingPro
+
+* [Getting Started](pyrofishingpro/getting-started.md)
+* [Возможности](pyrofishingpro/vozmozhnosti.md)
+* [Медиа](pyrofishingpro/media.md)
+* [Команды и права](pyrofishingpro/komandy-i-prava.md)
+* [Плейсхолдеры](pyrofishingpro/pleiskholdery.md)
+* [Условия использования](pyrofishingpro/usloviya-ispolzovaniya.md)
+
 ## Cargo
 
 * [Грузы](cargo/gruzy.md)
